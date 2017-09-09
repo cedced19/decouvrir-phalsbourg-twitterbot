@@ -1,0 +1,13 @@
+{
+  "name": "decouvrir-phalsbourg-twitterbot",
+  "version": "0.0.0",
+  "description": "A Twitter bot to manage Découvrir Phalsbourg's twitter account.",
+  "main": "decouvrir-phalsbourg-twitterbot.js",
+  "author": "Cédric JUNG <cedced19@github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "exists-file": "^3.0.2",
+    "node-schedule": "^1.2.4",
+    "twitter": "^1.7.1"
+  }
+}

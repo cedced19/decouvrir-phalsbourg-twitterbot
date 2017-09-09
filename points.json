@@ -1,0 +1,50 @@
+[
+   {
+      "text":"Découvrez l’histoire étonnante de l’église de Notre Dame de l’Assomption !",
+      "image": "notre_dame_de_l_assomption.jpg",
+      "promote": true
+   },
+   {
+      "text": "Comment acheminer l’eau jusqu’à Phalsbourg ? Réponse ici:",
+      "image": "fontaine.jpg",
+      "promote": true
+   },
+   {
+      "text":"Vous étiez au Lycée Erckmann-Chatrian ? Apprenez en plus !",
+      "promote": true
+   },
+   {
+      "text":"Découvrez la Porte d’Allemagne via l’application !",
+      "image": "porte_de_allemagne.jpg",
+      "promote": true
+   },
+   {
+      "text":"Découvrez la Porte de France via l’application !",
+      "image": "porte_de_france.jpg",
+      "promote": true
+   },
+   {
+      "text":"Quel est l’histoire du lavoir du Brunnenthal ? En savoir plus ici:",
+      "image": "lavoir_brunnenthal.jpg",
+      "promote": true
+   },
+   {
+      "text":"Des trains à Phalsbourg ?? En savoir plus sur ancienne gare de Phalsbourg grâce à l’application !",
+      "image": "gare.jpg",
+      "promote": true
+   },
+   {
+      "text":"Un château à Phalsbourg ? Découvrez le Château d’Einartzhausen dans l’application..",
+      "image": "chateau.jpg",
+      "promote": true
+   }, {
+      "text":"En savoir plus sur la Place d’Armes de Phalsbourg grâce à l’application !",
+      "image": "place.png",
+      "promote": true
+   },
+   {
+      "text":"Découvrez l’histoire de Hôtel de ville de Phalsbourg dans l’application !",
+      "image": "mairie.jpg",
+      "promote": true
+   }
+]
