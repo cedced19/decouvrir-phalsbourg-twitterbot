@@ -24,7 +24,7 @@
       "promote": true
    },
    {
-      "text":"Quel est l’histoire du lavoir du Brunnenthal ? En savoir plus ici:",
+      "text":"Quelle est l’histoire du lavoir du Brunnenthal ? En savoir plus ici:",
       "image": "lavoir_brunnenthal.jpg",
       "promote": true
    },
@@ -46,5 +46,10 @@
       "text":"Découvrez l’histoire de Hôtel de ville de Phalsbourg dans l’application !",
       "image": "mairie.jpg",
       "promote": true
+   },
+   {
+     "text": "Jetez un coup d'œuil au blog de Philippe L. dans lequel il donne des anecdotes sur la base militaire de Phalsbourg. http://phalsbourg-air-base.blogspot.fr",
+     "image": "air_base_1967.jpg",
+     "promote": false
    }
 ]
